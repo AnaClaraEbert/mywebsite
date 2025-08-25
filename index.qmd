@@ -1,12 +1,12 @@
 ---
 title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+
 ---
 
 :::{#me}
+
+
+![](profile.jpg){ width=300px fig-align="left" }
 
 ## Goals
 
@@ -16,4 +16,4 @@ about:
 
 :::
 
-Thanks for checking out my web site!
+
