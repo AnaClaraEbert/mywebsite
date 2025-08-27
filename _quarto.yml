@@ -14,7 +14,6 @@ website:
       - href: publications.html
         text: Publications
       
-      
     left:
       - icon: linkedin
         href: https://www.linkedin.com/in/ana-clara-kaneko-ebert-8811a815b/
@@ -32,7 +31,6 @@ website:
 format:
   html:
     theme: Flatly
-    toc: true
 
 editor: source
 
