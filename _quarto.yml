@@ -24,13 +24,11 @@ website:
       - text: ORCID
         href: https://orcid.org/my-orcid?orcid=0009-0006-2713-7658
   
-  page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
+page-footer:
     left: "&copy; Copyright 2025, Ana Clara Ebert"
+
 
 format:
   html:
     theme: Flatly
-
-editor: source
-
+    toc: true
