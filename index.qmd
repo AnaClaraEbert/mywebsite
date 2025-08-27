@@ -1,10 +1,9 @@
 ---
 title: Ana Clara Ebert, MSc (Research)
-
 ---
 
+![](profile.jpg){width="300px" fig-align="left"}
 
-![](profile.jpg){ width=300px fig-align="left" }
+I am a Research Master's student at the Social Psychology programme at [Vrije Universiteit Amsterdam](https://vu.nl/en/education/master/social-psychology-research).
 
-Write small text about me and my interests
-
+My research interests ...
