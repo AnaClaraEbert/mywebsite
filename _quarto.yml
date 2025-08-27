@@ -5,22 +5,33 @@ project:
 website:
   title: "Ana Clara Kaneko Ebert"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - projects.qmd
-    tools:
+      - href: files/CV.pdf
+        text: CV
+        target: _blank
+      - href: publications.html
+        text: Publications
+      
+      
+    left:
       - icon: linkedin
         href: https://www.linkedin.com/in/ana-clara-kaneko-ebert-8811a815b/
       - icon: github
         href: https://www.github.com/AnaClaraEbert/mywebsite
+      - icon: envelope
+        href: "mailto:anaclaraebert1@gmail.com"
+      - text: ORCID
+        href: https://orcid.org/my-orcid?orcid=0009-0006-2713-7658
+  
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2025, Ana Clara Ebert"
 
 format:
   html:
-    theme: journal
+    theme: Flatly
     toc: true
 
 editor: source

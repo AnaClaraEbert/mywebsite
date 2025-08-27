@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: Ana Clara Ebert, MSc (Research)
 
 ---
 
@@ -8,11 +8,7 @@ title: "About Me"
 
 ![](profile.jpg){ width=300px fig-align="left" }
 
-## Goals
-
-## Education
-
-## Experience
+Write small text about me and my interests
 
 :::
 
